@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TicketMasterAndroid</string>
+    <string name="search">Search</string>
+    <string name="find_tickets_around_you">Find Tickets Around You</string>
+    <string name="searchs">Search</string>
+    <string name="enter_city">Enter city</string>
+    <string name="enter_keyword">Enter keyword</string>
+    <string name="todo">TODO</string>
+    <string name="price_range">price range:</string>
+    <string name="date">Date</string>
+    <string name="see_tickets">See Tickets</string>
+    <string name="event_type_or_keyword_to_search">Event Type or keyword to search</string>
+    <string name="time">Time</string>
+    <string name="no_results_found">No Results Found</string>
+    <string name="title">Title</string>
+    <string name="image">image</string>
+    <string name="event_description">Event Description</string>
+    <string name="loading_description" />
+    <string name="event_description1">Event Description</string>
+    <string name="provided_by_gemini_ai">Provided by Gemini AI</string>
+    <string name="powered_by_gemini_ai">Powered By Gemini AI</string>
+    <string name="firebase_web_client_id" />
+    <string name="error_loading_events">Error loading liked events. Please try again later.</string>
+    <string name="back">Back</string>
+    <string name="favorites_list">Favorites List</string>
+    <string name="back1">Back</string>
+    <string name="ticket_master_app">Ticket Master App</string>
+    <string name="login_register">Login/Register</string>
+    <string name="account_information">Account Information</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="email">Email</string>
+    <string name="textview1">TextView</string>
+    <string name="favorites">Favorites</string>
+    <string name="title11">Title</string>
+    <string name="delete">Delete</string>
+
+</resources>
